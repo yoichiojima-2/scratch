@@ -20,5 +20,21 @@ the work. Honest disagreement is part of the process.
 7. We have no mechanism to coordinate on slow, 30-year problems.
 8. Our mental models lag reality by about a generation.
 9. We measure what is easy, then optimize the proxy.
+10. Sleep is treated as slack, not infrastructure.
+11. Care work is invisible in every ledger.
+12. We outsourced memory and have not decided which skills must stay internal.
+13. Risk is misjudged in both directions: vivid risks get the money, quiet ones keep killing.
+14. Life transitions (job loss, divorce, bereavement, migration) have no support structure.
+15. Status competition eats the surplus, so rising income does not feel like rising wellbeing.
+16. We have lost the mechanics of productive disagreement.
+17. Young people are protected from physical risk and left alone with the things that harm them.
+18. Science rewards novelty, not reliability.
+19. The food system optimizes for shelf life and margin; we read the result as willpower.
+20. Death is hidden, so we do it badly.
+21. Everyone is a tenant now: ownership is turning into revocable licenses.
+
+Pattern: most of these are default problems, not knowledge problems. The
+environment makes the harmful path the easy one, and we blame the person who
+takes it. Changing defaults is usually higher leverage than educating people.
 
 Next step: pick one, with feedback from the person, and work on it.
